@@ -21,7 +21,7 @@ public class PostmanImportExtension implements BurpExtension {
     private RequestDisplayPanel requestDisplayPanel;
     private PostmanParser postmanParser;
     
-    private static final String EXTENSION_NAME = "MonaPostman";
+    private static final String EXTENSION_NAME = "postman2burp";
     
     @Override
     public void initialize(MontoyaApi api) {
@@ -224,4 +224,5 @@ public class PostmanImportExtension implements BurpExtension {
             JOptionPane.ERROR_MESSAGE
         );
     }
+
 }
