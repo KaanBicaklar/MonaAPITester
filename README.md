@@ -1,7 +1,7 @@
-# 🚀 Mona – Comprehensive API Testing Extension for Burp Suite
+# 🚀 MonaAPITester – Comprehensive API Testing Extension for Burp Suite
 
 ## 📌 Overview
-**Mona** is a full-featured API testing extension designed to enhance and streamline modern API security workflows within Burp Suite. It offers a centralized workspace for importing API documentation, reviewing captured traffic, refining request structures, and maintaining testing notes with maximum efficiency.
+**MonaAPITester** is a full-featured API testing extension designed to enhance and streamline modern API security workflows within Burp Suite. It offers a centralized workspace for importing API documentation, reviewing captured traffic, refining request structures, and maintaining testing notes with maximum efficiency.
 
 ---
 
